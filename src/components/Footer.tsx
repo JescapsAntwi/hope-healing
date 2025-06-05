@@ -14,7 +14,7 @@ const Footer = () => {
               <span className="font-heading font-bold text-xl">Hope & Healing</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
-              A comprehensive support network dedicated to helping survivors of gender-based violence 
+              A comprehensive support network dedicated to helping survivors of gender-based violence
               find safety, healing, and empowerment through community and resources.
             </p>
             <div className="flex items-center space-x-4">
@@ -52,7 +52,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              © 2024 Hope & Healing Network. All rights reserved.
+              © 2025 Hope & Healing Network. All rights reserved.
             </p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
               <span className="text-gray-500 text-sm">Emergency:</span>
